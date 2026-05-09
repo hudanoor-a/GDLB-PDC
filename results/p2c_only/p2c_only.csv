@@ -1,0 +1,2 @@
+algorithm,total,completed,failed,mean_latency,p50,p95,p99,p999,goodput_rps,control_bytes,jain_fairness
+p2c,90679,90511,168,1.015957,0.814409,2.277093,2.659773,3.043057,1508.52,0,0.986872

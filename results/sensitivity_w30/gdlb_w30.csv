@@ -1,0 +1,2 @@
+algorithm,total,completed,failed,mean_latency,p50,p95,p99,p999,goodput_rps,control_bytes,jain_fairness
+gdlb,90270,90254,16,1.306337,1.183751,2.688384,3.081095,3.382360,1504.23,0,0.990207

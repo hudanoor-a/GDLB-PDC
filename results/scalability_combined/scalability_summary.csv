@@ -1,0 +1,4 @@
+scale_level,p99,goodput_rps,jain_fairness
+Small,61.473932,511.58,0.947931
+Medium,3.081095,1504.23,0.990207
+Large,2.981633,4843.52,0.964375

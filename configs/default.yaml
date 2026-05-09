@@ -1,0 +1,14 @@
+algorithms: rr,least,p2c,probing,ml,gdlb
+workload: mmpp
+proxies: 20
+backends: 50
+duration_seconds: 60
+base_rate_rps: 900
+burst_rate_rps: 5000
+burst_probability: 0.02
+telemetry_delay_seconds: 0.005
+gdlb_penalty_w: 1.8
+gdlb_decay_alpha: 0.7
+failure_at_seconds: 20
+failure_duration_seconds: 5
+seed: 42
